@@ -14,7 +14,9 @@ You can also access the user data manually in the save folder in case you want t
 STL files for 3D printed RFID card cases as well as the electronics housing
 /n
 the frtizing diagram
+/n
 the Arduino .ino code
+/n
 Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.27
 
 *The case for the electronics was designed to be solder free.
