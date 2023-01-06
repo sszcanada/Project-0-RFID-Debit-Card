@@ -1,0 +1,18 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=DebitCardSystem
+*Date=02:02:22
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;-4.64819;-21.1467;90;Bottom;HTTPS://SSZ.CA
+2;;;19.5558;-22.4413;180;Bottom;SSZ DEBIT CARD SYSTEM
+3;;;51.0806;-21.1626;180;Bottom;v1.1
