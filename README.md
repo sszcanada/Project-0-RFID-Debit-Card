@@ -18,15 +18,23 @@ You can also access the user data manually in the save folder in case you want t
 
 STL files for 3D printed RFID card cases as well as the electronics housing
 <br />
+*The V1 case for the electronics was designed to be solder free.
+<br />
 the frtizing diagram
 <br />
 the Arduino .ino code
 <br />
 Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.27
 <br />
-*The case for the electronics was designed to be solder free.
 <br />
-PCB Design so you can order a proper PCB for the project (Found in Fritzing Diagram as well as in gerber format inside each release)
+
+# Make it more advanced
+
+PCB Design so you can order a proper PCB for the project
+<br />
+*Found in Fritzing Diagram as well as in gerber format inside each release
+<br />
+Designed to hold Uno on back, with screen and RFID on top.
 <br />
 <br />
 
