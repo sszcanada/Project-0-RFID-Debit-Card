@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=DebitCardSystem
-*Date=02:02:22
+*Date=13:27:30
 *CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
 *
 *
@@ -13,6 +13,8 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;;;-4.64819;-21.1467;90;Bottom;HTTPS://SSZ.CA
-2;;;19.5558;-22.4413;180;Bottom;SSZ DEBIT CARD SYSTEM
-3;;;51.0806;-21.1626;180;Bottom;v1.1
+1;;THT;5.77983;-34.6463;0;Bottom;J3
+2;;THT;37.9362;-8.30778;90;Bottom;J1
+3;;;19.5557;-22.4413;180;Bottom;SSZ DEBIT CARD SYSTEM
+4;;;-4.6482;-21.1467;90;Bottom;HTTPS://SSZ.CA
+5;;;51.0806;-21.1626;180;Bottom;v1.1
