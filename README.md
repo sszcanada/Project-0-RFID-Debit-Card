@@ -76,8 +76,6 @@ SDA - A4
 VCC - 5v 
 GND - GND
 ```
-<br />
-<br />
 
 # Make it more advanced
 
