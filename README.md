@@ -1,5 +1,5 @@
 # Project-0-RFID-Debit-Card
-<br />
+
 Hey everyone. Over the holidays I created a small "debit card" system that uses RFID cards and a Mini RC522 scanner along with an app I made in Unreal. 
 <br />
 This is lovingly called Project Zero as it's an unofficial start to this year of new projects. I did not have a chance to film everything so there is no way I can count this as a full project. I will be working on a new and improved version later in the year as well 🙂
@@ -13,7 +13,9 @@ The sale has a input box you can just put in how much the things costs with your
 You can also access the user data manually in the save folder in case you want to make edits to a card without having the actual card to scan. Everything is held in plain text to easily edit in a text program.
 <br />
 <br />
+
 # Included
+
 STL files for 3D printed RFID card cases as well as the electronics housing
 <br />
 the frtizing diagram
@@ -25,6 +27,7 @@ Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.2
 *The case for the electronics was designed to be solder free.
 <br />
 <br />
+
 # What you will need 
 
 Arduino Nano
