@@ -26,6 +26,7 @@ Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.2
 <br />
 <br />
 # What you will need 
+
 Arduino Nano
 <br />
 Mini Breadboard
@@ -40,6 +41,7 @@ Compiled version of the Unreal app
 <br />
 <br />
 # How To Make it work
+
 To make the system work you firstly assemble the components as shown in the fritzing diagram.
 <br />
 Than upload the .ino sketch to your Arduino
@@ -48,10 +50,9 @@ Open the Unreal app and go into settings and set the COM port that your Arduino 
 <br />
 Scan an RFID card while the app is open to add a new user
 <br />
-
-
+<br />
 # Pin Out
-
+<br />
 RC522 
 ```
 SDA - D10
@@ -63,7 +64,7 @@ GND - GND
 RST - D9
 3.3V - 3.3V
 ```
-
+<br />
 OLED
 ```
 SCL - A5
