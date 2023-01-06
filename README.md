@@ -55,7 +55,7 @@ Scan an RFID card while the app is open to add a new user
 <br />
 <br />
 # Pin Out
-<br />
+
 RC522 
 ```
 SDA - D10
@@ -67,7 +67,7 @@ GND - GND
 RST - D9
 3.3V - 3.3V
 ```
-<br />
+
 OLED
 ```
 SCL - A5
