@@ -28,16 +28,6 @@ Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.2
 <br />
 <br />
 
-# Make it more advanced
-
-PCB Design so you can order a proper PCB for the project
-<br />
-*Found in Fritzing Diagram as well as in gerber format inside each release
-<br />
-Designed to hold Uno on back, with screen and RFID on top.
-<br />
-<br />
-
 # What you will need 
 
 Arduino Nano
@@ -53,6 +43,7 @@ Wires
 Compiled version of the Unreal app
 <br />
 <br />
+
 # How To Make it work
 
 To make the system work you firstly assemble the components as shown in the fritzing diagram.
@@ -85,3 +76,15 @@ SDA - A4
 VCC - 5v 
 GND - GND
 ```
+<br />
+<br />
+
+# Make it more advanced
+
+PCB Design so you can order a proper PCB for the project
+<br />
+*Found in Fritzing Diagram as well as in gerber format inside each release
+<br />
+Designed to hold Uno on back, with screen and RFID on top.
+<br />
+<br />
