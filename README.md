@@ -12,11 +12,11 @@ You can also access the user data manually in the save folder in case you want t
 
 # Included
 STL files for 3D printed RFID card cases as well as the electronics housing
-/n
+<br />
 the frtizing diagram
-/n
+<br />
 the Arduino .ino code
-/n
+<br />
 Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.27
 
 *The case for the electronics was designed to be solder free.
@@ -24,12 +24,12 @@ Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.2
 
 # What you will need 
 
-Arduino Nano
-Mini Breadboard
-Mini RFID-RC522
-0.96 Inch 4Pin I2C OLED
-Wires 
-Compiled version of the Unreal app
+Arduino Nano<br />
+Mini Breadboard<br />
+Mini RFID-RC522<br />
+0.96 Inch 4Pin I2C OLED<br />
+Wires <br />
+Compiled version of the Unreal app<br />
 
 # How To Make it work
 
