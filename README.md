@@ -26,6 +26,8 @@ Unreal Engine app to run it all precompiled or source code for Unreal Engine 4.2
 <br />
 *The case for the electronics was designed to be solder free.
 <br />
+PCB Design so you can order a proper PCB for the project (Found in Fritzing Diagram as well as in gerber format inside each release)
+<br />
 <br />
 
 # What you will need 
